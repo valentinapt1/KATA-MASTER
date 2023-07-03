@@ -1,4 +1,4 @@
-Conseguir ingredientes1
+Conseguir ingredientes
 Preparar la salsa de tomate
 Preparar la masa para la pizza
 Formación de base de la pizza
